@@ -2,9 +2,14 @@
   "name": "my-project",
   "version": "1.0.0",
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.0.0"
   },
   "scripts": {
     "start": "react-scripts start"
+=======
+    "react": "^18.0.0",
+    "axios": "^1.0.0"
+>>>>>>> feature/dependencies
   }
 }
